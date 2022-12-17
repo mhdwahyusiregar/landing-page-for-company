@@ -167,6 +167,9 @@
 
 /* DESKTOP VERSION */
 @media (min-width: 992px) {
+    .navbar {
+        margin-top: 10px;
+    }
     .navbar-brand, .nav-link {
         color: white !important;
         text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7)
@@ -189,7 +192,7 @@
 /* margin-bottom -8px karena agar saat di sorot dgn korsur NAV nya tidak naik/bergetar ke atas */
 
     .jumbotron {
-        margin-top: -75px;
+        margin-top: -90px;
         height: 640px;
     }
 
